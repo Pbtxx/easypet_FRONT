@@ -104,7 +104,7 @@ Para cualquier consulta o problema, contacta al equipo de desarrollo:
 
 - GitHub: [Pbtxx](https://github.com/Pbtxx)
 - Linkedin: [Pablo Martínez Canto](https://www.linkedin.com/in/pmartinezcanto/)
-- [Sebastián Gacitúa Caro] (https://www.linkedin.com/in/sebastianogc/)
+- [Sebastián Gacitúa Caro](https://www.linkedin.com/in/sebastianogc/)
 
 ## Licencia
 
